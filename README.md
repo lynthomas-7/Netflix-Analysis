@@ -1,3 +1,6 @@
 # Netflix Data Analysis using SQL
-<img width="268" height="148" alt="image" src="https://github.com/user-attachments/assets/9a1278a0-9c7f-404e-8d26-b51b741c7909" />
+
+![netf](https://github.com/user-attachments/assets/31ee6afd-76ed-4d5f-8526-61d306d0a4a8)
+
+
 
